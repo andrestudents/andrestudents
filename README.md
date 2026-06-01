@@ -26,7 +26,7 @@
 │  * CubeFi    - Autonomous marketplace for AI agents & Web3 tools         │
 │  * Peli-Fi   - Lottery finance protocol built on the Flow blockchain     │
 |  * Peli-Fi   - AI DeFi strategy copilot with automated vaults            │
-│  * Reflow    - P2P lending dApp for Real-World Assets (RWA)              │
+│  * Re-Flow   - P2P lending dApp for Real-World Assets (RWA)              │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
