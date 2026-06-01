@@ -13,12 +13,11 @@
 │                                                                          │
 │  $ cat skills.json                                                       │
 │  ┌───────────────────────────────────────────────────────────────┐       │
-│  │  [smart-contract] Solidity · Foundry                          │       │
-│  │  [web3]           wagmi · viem · RainbowKit                   │       │
 │  │  [frontend]       Next.js · TypeScript · Tailwind · shadcn UI │       │
-│                                                                          │
 │  │  [backend/db]     Node.js (ESM) · Express · SQLite · Supabase │       │
-│  │  [ai-agents]      MCP · LLM Integration · Claude Code         │       │
+│  │  [smart-contract] Solidity · Foundry · Move · Cadence         │       │
+│  │  [web3]           wagmi · viem · RainbowKit                   │       │
+│  │  [ai-agents]      MCP · LLM Integration                       │       │
 │  │  [devops/env]     Docker · AWS EC2 · Vercel · Git · WSL       │       │
 │  └───────────────────────────────────────────────────────────────┘       │
 │  $ list --projects                                                       │
