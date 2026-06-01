@@ -18,7 +18,7 @@
 │  │  [Smart Contract] Solidity · Foundry · Move · Cadence         │       │
 │  │  [web3]           wagmi · viem · RainbowKit                   │       │
 │  │  [ai-agents]      MCP · LLM Integration                       │       │
-│  │  [Devops]     Docker · AWS EC2 · Vercel · Git · WSL           │       │
+│  │  [Devops]         Docker · AWS EC2 · Vercel · Git · WSL           │       │
 │  └───────────────────────────────────────────────────────────────┘       │
 │  $ list --projects                                                       │
 │  * ClashFi   - AI-powered competitive match platform with                │
