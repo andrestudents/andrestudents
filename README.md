@@ -5,20 +5,20 @@
 │                                                                          │
 │  $ whoami                                                                │
 │  ┌───────────────────────────────────────────────────────────────┐       │
-│  │  [name]         Andre / andrestudents                         │       │
-│  │  [role]         Informatics Engineering Student               │       │
-│  │  [focus]        Full-Stack Web3                               │       │
-│  │  [location]     Indonesia                                     │       │
+│  │  [Name]         Andre / andrestudents                         │       │
+│  │  [Role]         Informatics Engineering Student               │       │
+│  │  [Focus]        Full-Stack Web3                               │       │
+│  │  [Location]     Yogyakarta · Indonesia                        │       │
 │  └───────────────────────────────────────────────────────────────┘       │
 │                                                                          │
 │  $ cat skills.json                                                       │
 │  ┌───────────────────────────────────────────────────────────────┐       │
-│  │  [frontend]       Next.js · TypeScript · Tailwind · shadcn UI │       │
-│  │  [backend/db]     Node.js (ESM) · Express · SQLite · Supabase │       │
-│  │  [smart-contract] Solidity · Foundry · Move · Cadence         │       │
+│  │  [Frontend]       Next.js · TypeScript · Tailwind · shadcn UI │       │
+│  │  [Backend/db]     Node.js (ESM) · Express · SQLite · Supabase │       │
+│  │  [Smart Contract] Solidity · Foundry · Move · Cadence         │       │
 │  │  [web3]           wagmi · viem · RainbowKit                   │       │
 │  │  [ai-agents]      MCP · LLM Integration                       │       │
-│  │  [devops/env]     Docker · AWS EC2 · Vercel · Git · WSL       │       │
+│  │  [Devops]     Docker · AWS EC2 · Vercel · Git · WSL           │       │
 │  └───────────────────────────────────────────────────────────────┘       │
 │  $ list --projects                                                       │
 │  * ClashFi   - AI-powered competitive match platform with                │
@@ -30,3 +30,4 @@
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
+
