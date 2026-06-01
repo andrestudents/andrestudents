@@ -5,7 +5,7 @@
 │                                                                          │
 │  $ whoami                                                                │
 │  ┌───────────────────────────────────────────────────────────────┐       │
-│  │  [Name]         Andre / andrestudents                         │       │
+│  │  [Name]         Andreas                                       │       │
 │  │  [Role]         Informatics Engineering Student               │       │
 │  │  [Focus]        Full-Stack Web3                               │       │
 │  │  [Location]     Yogyakarta · Indonesia                        │       │
