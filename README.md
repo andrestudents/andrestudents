@@ -14,7 +14,7 @@
 │  $ cat skills.json                                                       │
 │  ┌───────────────────────────────────────────────────────────────┐       │
 │  │  [Frontend]       Next.js · TypeScript · Tailwind · shadcn UI │       │
-│  │  [Backend/db]     Node.js (ESM) · Express · SQLite · Supabase │       │
+│  │  [Backend/db]     Node.js · Express · SQLite3 · PostgreSQL    │       │
 │  │  [Smart Contract] Solidity · Foundry · Move · Cadence         │       │
 │  │  [web3]           wagmi · viem · RainbowKit                   │       │
 │  │  [ai-agents]      MCP · LLM Integration                       │       │
