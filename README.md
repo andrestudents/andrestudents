@@ -1,33 +1,72 @@
 ```
-┌──────────────────────────────────────────────────────────────────────────┐
-│  andrestudents@github  ~  [session: active]                              │
-├──────────────────────────────────────────────────────────────────────────┤
-│                                                                          │
-│  $ whoami                                                                │
-│  ┌───────────────────────────────────────────────────────────────┐       │
-│  │  [Name]         Andreas                                       │       │
-│  │  [Role]         Informatics Engineering Student               │       │
-│  │  [Focus]        Full-Stack Web3                               │       │
-│  │  [Location]     Yogyakarta · Indonesia                        │       │
-│  └───────────────────────────────────────────────────────────────┘       │
-│                                                                          │
-│  $ cat skills.json                                                       │
-│  ┌───────────────────────────────────────────────────────────────┐       │
-│  │  [Frontend]       Next.js · TypeScript · Tailwind · shadcn UI │       │
-│  │  [Backend/db]     Node.js · Express · SQLite3 · PostgreSQL    │       │
-│  │  [Smart Contract] Solidity · Foundry · Move · Cadence         │       │
-│  │  [web3]           wagmi · viem · RainbowKit                   │       │
-│  │  [ai-agents]      MCP · LLM Integration                       │       │
-│  │  [Devops]         Docker · AWS EC2 · Vercel · Git · WSL       │       │
-│  └───────────────────────────────────────────────────────────────┘       │
-│  $ list --projects                                                       │
-│  * ClashFi   - AI-powered competitive match platform with                │
-│                multi-agent judging & Web3 settlement                     │
-│  * CubeFi    - Autonomous marketplace for AI agents & Web3 tools         │
-│  * Peli-Fi   - Lottery finance protocol built on the Flow blockchain     │
-|  * Peli-Fi   - AI DeFi strategy copilot with automated vaults            │
-│  * Re-Flow   - P2P lending dApp for Real-World Assets (RWA)              │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
-```
+## Profile
+
+<table>
+<tr>
+<td><strong>Name</strong></td>
+<td>Andreas </td>
+</tr>
+<tr>
+<td><strong>Role</strong></td>
+<td>Informatics Engineering Student</td>
+</tr>
+<tr>
+<td><strong>Focus</strong></td>
+<td>Full-Stack Web3 & AI Autonomous Infrastructure</td>
+</tr>
+<tr>
+<td><strong>Location</strong></td>
+<td>Indonesia</td>
+</tr>
+</table>
+
+---
+
+## Technical Stack
+
+<table>
+<tr>
+<th>Domain</th>
+<th>Technologies</th>
+</tr>
+<tr>
+<td>Smart Contract</td>
+<td>Solidity, Foundry</td>
+</tr>
+<tr>
+<td>Frontend</td>
+<td>Next.js, TypeScript, Tailwind CSS, shadcn/ui</td>
+</tr>
+<tr>
+<td>Web3 Libraries</td>
+<td>wagmi, viem, RainbowKit</td>
+</tr>
+<tr>
+<td>Backend & Database</td>
+<td>Node.js (ESM), Express.js, SQLite, Supabase</td>
+</tr>
+<tr>
+<td>AI Agents</td>
+<td>Model Context Protocol (MCP), LLM Integration</td>
+</tr>
+<tr>
+<td>DevOps & Environment</td>
+<td>WSL, Docker, AWS EC2, Git, Vercel</td>
+</tr>
+</table>
+
+---
+
+## Focus Areas
+
+- Full-Stack Web3 Applications
+- Smart Contract Development
+- AI Agent Infrastructure
+- Model Context Protocol (MCP)
+- DeFi Automation
+- Real-World Assets (RWA)
+- DevOps & Cloud Deployment
+
+---
+
 
