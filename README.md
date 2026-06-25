@@ -137,7 +137,7 @@
   <a href="https://linkedin.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://wa.me/6282135130900?text=Halo,%20saya%20mendapatkan%20kontak%20Anda%20dari%20portofolio%20dan%20ingin%20terhubung." target="_blank">
+  <a href="https://wa.me/6282135130900?text=Hello,%20I%20got%20your%20contact%20from%20your%20portfolio%20and%20would%20like%20to%20connect." target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
   </a>
   <a href="" target="_blank">
