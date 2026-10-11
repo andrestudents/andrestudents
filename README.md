@@ -107,18 +107,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-- Full-Stack Web3 Applications
-- Smart Contract Development
-- AI Agent Infrastructure
-- Model Context Protocol (MCP)
-- DeFi Automation
-- Real-World Assets (RWA)
-- DevOps & Cloud Deployment
-
----
-
 ### 🔎 Find Me
 
 <div align="left">
